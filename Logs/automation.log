@@ -1,0 +1,8 @@
+13:00:45.097 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - clicked on aler buttton and closed
+13:00:45.139 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the total number of webtable elements
+13:00:45.176 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the element from the webtable
+13:00:45.617 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - displayed the all webtable elements
+13:00:45.649 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - page has scrolled
+13:00:46.120 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully mouse hover action has been performed
+13:00:46.237 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - switched into the frame successfully
+13:00:46.615 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - clicked on job support link

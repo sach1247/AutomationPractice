@@ -1,0 +1,39 @@
+09:34:28.564 [main] INFO  com.TestAutomationPractice.testCases.TC_001_LoginTest - successfuly enter username as practice
+09:34:28.721 [main] INFO  com.TestAutomationPractice.testCases.TC_001_LoginTest - successfully enter password as SuperSecretPassword
+09:50:20.329 [main] INFO  com.TestAutomationPractice.testCases.TC_001_LoginTest - successfuly enter username as practice
+09:50:20.465 [main] INFO  com.TestAutomationPractice.testCases.TC_001_LoginTest - successfully enter password as SuperSecretPassword
+09:53:11.196 [main] INFO  com.TestAutomationPractice.testCases.TC_001_LoginTest - successfuly enter username as practice
+09:53:11.336 [main] INFO  com.TestAutomationPractice.testCases.TC_001_LoginTest - successfully enter password as SuperSecretPassword
+15:10:05.472 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully enter a correct email
+15:10:05.578 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully entered coreect password
+15:10:08.470 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on login button
+15:10:08.563 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully scrolled upto features items
+15:10:08.697 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully got CATEGORY text
+15:10:08.801 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on men
+15:10:10.757 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on Tshirts
+15:10:12.565 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on view products
+15:10:12.742 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on add to cart
+15:12:03.450 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully enter a correct email
+15:12:03.574 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully entered coreect password
+15:12:06.131 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on login button
+15:15:09.595 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully enter a correct email
+15:15:09.687 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully entered coreect password
+15:15:12.387 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on login button
+15:15:12.579 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully scrolled upto features items
+15:15:12.633 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully got CATEGORY text
+15:15:12.753 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on men
+15:15:15.117 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on Tshirts
+15:15:16.911 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on view products
+15:15:17.002 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on add to cart
+21:37:41.294 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully enter a correct email
+21:37:41.393 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully entered coreect password
+21:37:50.218 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on login button
+21:37:50.276 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully scrolled upto features items
+21:37:50.364 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - successfully got CATEGORY text
+21:37:50.604 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on men
+21:37:53.303 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on Tshirts
+21:37:56.400 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on view products
+21:37:56.595 [main] INFO  com.TestAutomationPractice.testCases.TC_002_DashboardAutomationExeTest - clicked on add to cart
+11:12:57.300 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully entered text india
+11:12:57.557 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully clicked on option2 dropdown
+11:26:56.658 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully entered text india

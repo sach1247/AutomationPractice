@@ -1,0 +1,36 @@
+12:51:55.968 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - displayed the all webtable elements
+12:51:56.008 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - page has scrolled
+12:51:56.537 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully mouse hover action has been performed
+12:53:15.690 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully entered text india
+12:53:15.891 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully clicked on option2 dropdown
+12:53:15.912 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully found total number of checkboxes
+12:53:16.204 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully selected all the checkboxes
+12:53:16.383 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - window opened succesfully
+12:53:16.481 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - window has been successfully closed
+12:53:16.598 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - enterd welcome message
+12:53:16.704 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - clicked on aler buttton and closed
+12:53:16.738 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the total number of webtable elements
+12:53:16.773 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the element from the webtable
+12:53:17.162 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - displayed the all webtable elements
+12:53:17.193 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - page has scrolled
+12:53:17.708 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully mouse hover action has been performed
+12:58:25.159 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully entered text india
+12:58:25.480 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully clicked on option2 dropdown
+12:58:25.503 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully found total number of checkboxes
+12:58:25.754 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully selected all the checkboxes
+12:58:25.927 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - window opened succesfully
+12:58:26.017 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - window has been successfully closed
+12:58:26.132 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - enterd welcome message
+12:58:26.227 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - clicked on aler buttton and closed
+12:58:26.260 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the total number of webtable elements
+12:58:26.295 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the element from the webtable
+12:58:26.731 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - displayed the all webtable elements
+12:58:26.764 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - page has scrolled
+12:58:27.287 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully mouse hover action has been performed
+13:00:44.065 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully entered text india
+13:00:44.374 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully clicked on option2 dropdown
+13:00:44.397 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully found total number of checkboxes
+13:00:44.646 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully selected all the checkboxes
+13:00:44.809 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - window opened succesfully
+13:00:44.897 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - window has been successfully closed
+13:00:44.998 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - enterd welcome message
