@@ -39,10 +39,10 @@ public class ExtentReportManager implements ITestListener{
 		
 		extent=new ExtentReports();
 		extent.attachReporter(sparkReporter);
-		extent.setSystemInfo("Application","OrangeHRM");
-		extent.setSystemInfo("Module","Login");
+		extent.setSystemInfo("Application","RahulShettyAcademyPracticePage");
+		extent.setSystemInfo("Module","AllModules");
 		extent.setSystemInfo("Sub Modue","Customers");
-		extent.setSystemInfo("UserName","Kishor");
+		extent.setSystemInfo("UserName","Sachin");
 		extent.setSystemInfo("Environment","QA");
 		
 		String os=testContext.getCurrentXmlTest().getParameter("os");

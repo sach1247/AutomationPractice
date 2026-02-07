@@ -1,0 +1,40 @@
+10:26:32.967 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on Multile dwindows link button
+10:26:33.605 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - click on click btn of multiple windows
+10:26:33.643 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - windows ids have printed successfully
+10:26:33.760 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - window has closed successfully
+12:33:15.692 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+12:33:15.805 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+12:33:15.915 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+12:33:16.058 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+12:33:16.190 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+12:33:16.282 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+12:33:16.307 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+12:33:16.412 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on male radio button
+12:33:19.597 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on first and last checkboxes
+12:33:25.276 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on refresh button
+12:33:29.000 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - switched from switch to button to alerts successfully
+12:33:29.086 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on alerts link successfully
+12:33:29.163 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on alerts with the text
+12:33:29.204 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - handled the alerts all features successfully
+12:33:33.857 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - moved to windows successfully
+12:33:34.003 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on Multile dwindows link button
+12:33:34.887 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - click on click btn of multiple windows
+12:33:35.046 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - windows ids have printed successfully
+12:33:51.168 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - it has moved to iframe and clicked successfully
+12:35:20.781 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+12:35:20.933 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+12:35:21.078 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+12:35:21.199 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+12:35:21.334 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+12:35:21.455 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+12:35:21.485 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+12:35:21.580 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on male radio button
+12:35:24.700 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on first and last checkboxes
+12:35:27.795 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on refresh button
+12:35:36.934 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - switched from switch to button to alerts successfully
+12:35:37.104 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on alerts link successfully
+12:35:37.207 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on alerts with the text
+12:35:37.262 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - handled the alerts all features successfully
+12:35:41.568 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - moved to windows successfully
+12:35:41.671 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on Multile dwindows link button
+12:35:42.043 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - click on click btn of multiple windows

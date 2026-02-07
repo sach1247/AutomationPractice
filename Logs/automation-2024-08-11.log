@@ -1,0 +1,39 @@
+11:04:45.121 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on Submit Button
+11:04:46.027 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on leave button
+11:04:53.354 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on the DatePicker
+11:04:53.416 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on month arrow
+11:04:53.507 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - april month has been selected
+11:04:53.603 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on year dropDown
+11:04:53.680 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - year has selected successfully
+11:04:53.762 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Date has selected
+11:04:53.837 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - successfully clicked on login button
+11:04:54.686 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on logout button successfully
+11:05:20.057 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+11:05:20.231 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+11:05:20.484 [TestNG-tests-1] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+11:05:20.691 [TestNG-tests-1] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+11:05:21.549 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+11:05:21.834 [TestNG-tests-1] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+11:05:23.018 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+11:05:23.069 [TestNG-tests-1] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+11:05:41.140 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on add button
+11:05:41.686 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on select DropDown
+11:05:41.754 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on Admin Drp Option
+11:05:41.888 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - entered employee name in the field
+11:05:41.949 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on status dropdown
+11:05:41.985 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on enabled dropdown
+11:05:42.158 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - username has entered successfully
+11:05:42.311 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - password has entered successfully
+11:05:42.462 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - confirmed password successfully
+11:05:42.520 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on Submit Button
+11:05:43.766 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on leave button
+11:05:49.068 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on the DatePicker
+11:05:49.140 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on month arrow
+11:05:49.223 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - april month has been selected
+11:05:49.284 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on year dropDown
+11:05:49.377 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - year has selected successfully
+11:05:49.450 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Date has selected
+11:05:49.523 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - successfully clicked on login button
+11:05:50.300 [TestNG-tests-2] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Clicked on logout button successfully
+11:07:03.996 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+11:07:04.104 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password

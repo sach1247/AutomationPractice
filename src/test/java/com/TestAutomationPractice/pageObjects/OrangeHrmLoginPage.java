@@ -34,6 +34,8 @@ public class OrangeHrmLoginPage {
 	WebElement text_Dashboard;
 	
 	
+	
+	
 	public void setUsername(String username) {
 		
 		txt_username.sendKeys(username);

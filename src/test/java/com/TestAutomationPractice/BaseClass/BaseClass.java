@@ -1,12 +1,17 @@
 package com.TestAutomationPractice.BaseClass;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -23,12 +28,12 @@ public class BaseClass {
     public Properties pf;
 	public Logger log;
 	@BeforeClass
-//	@Parameters({"browser"})
-	public void setUp() throws IOException {
+	@Parameters({"browser","os"})
+	public void setUp(String br,String os) throws IOException {
 		 FileReader file=new FileReader(".//src/test/resources/config.properties");
 		 pf=new Properties();
 		 pf.load(file);
-		
+		 
 		 
 		 
 		log=LogManager.getLogger(this.getClass());
@@ -39,7 +44,7 @@ public class BaseClass {
 //		{
 //		case "chrome":WebDriverManager.chromedriver().setup();
 //					  driver=new ChromeDriver();
-//					  break;
+//				  break;
 //					
 //		case "edge":WebDriverManager.edgedriver().setup();
 //					driver=new EdgeDriver();
@@ -49,7 +54,7 @@ public class BaseClass {
 //					return;
 //		
 //		}
-		
+//		
 		
 		//driver.get("https://practice.expandtesting.com/login");
         //driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
@@ -67,7 +72,20 @@ public class BaseClass {
 		driver.quit();
 	}
 	
-	//WE CAN ADD HERE @DataProvider to achieve the data driven testing.
+	public String captureScreenshot(String tname) {
+		
+		
+		String timeStamp=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
+		TakesScreenshot takesScreenShot=(TakesScreenshot)driver;
+		File sourceFile=takesScreenShot.getScreenshotAs(OutputType.FILE);
+	
+		String targetFilePath=System.getProperty("user.dir")+"\\Screenshots\\"+tname+"_"+timeStamp+".png";
+		
+		File targetFile=new File(targetFilePath);
+		sourceFile.renameTo(targetFile);
+		return targetFilePath;
+		
+	}
 
 
 }

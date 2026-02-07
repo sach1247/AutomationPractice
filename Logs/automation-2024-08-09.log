@@ -1,0 +1,43 @@
+12:15:42.649 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:15:45.444 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:15:47.571 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:22:31.740 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:22:31.842 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:22:46.830 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:22:53.550 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:24:49.244 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:24:49.355 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:24:50.843 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:24:52.482 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:42:44.952 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:42:45.063 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:42:46.621 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:42:48.076 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:46:59.004 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:46:59.114 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:47:00.790 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:47:02.322 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:47:12.806 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - alert has handled successfully
+12:53:02.485 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:53:02.596 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:53:04.140 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:53:05.449 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:53:15.968 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - alert has handled successfully
+12:56:22.219 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:56:22.336 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:56:24.235 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:56:26.228 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:58:03.285 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:58:03.402 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:58:03.478 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:58:06.947 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:59:09.454 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+12:59:09.561 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+12:59:11.285 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+12:59:13.306 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+12:59:37.409 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on add button
+13:02:36.054 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - enetred username 
+13:02:36.179 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - Entered password
+13:02:37.963 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on submit button
+13:02:39.462 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on admin button
+13:02:57.691 [main] INFO  com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1 - clicked on add button

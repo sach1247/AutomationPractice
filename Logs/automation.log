@@ -1,8 +1,13 @@
-13:00:45.097 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - clicked on aler buttton and closed
-13:00:45.139 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the total number of webtable elements
-13:00:45.176 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - got the element from the webtable
-13:00:45.617 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - displayed the all webtable elements
-13:00:45.649 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - page has scrolled
-13:00:46.120 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - successfully mouse hover action has been performed
-13:00:46.237 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - switched into the frame successfully
-13:00:46.615 [main] INFO  com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest - clicked on job support link
+11:03:05.557 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+11:03:05.715 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+11:03:05.921 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+11:03:06.192 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+11:03:06.428 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+11:03:06.608 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+11:03:06.665 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+11:03:06.799 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on male radio button
+11:03:09.868 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on first and last checkboxes
+11:03:11.290 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on refresh button
+11:03:15.141 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - switched from switch to button to alerts successfully
+11:03:20.044 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - it has moved to iframe and clicked successfully
+11:03:20.262 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - successfully clicked on the second link of ifame and entered

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest">
+      <class name="com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest">
         <methods>
-          <include name="onePageAllTesting"/>
           <include name="closeBrowser"/>
           <include name="setUp"/>
+          <include name="DemoSitePage"/>
         </methods>
-      </class> <!-- com.TestAutomationPractice.testCases.TC_001_RahulShettyAutomationPracticeTest -->
+      </class> <!-- com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

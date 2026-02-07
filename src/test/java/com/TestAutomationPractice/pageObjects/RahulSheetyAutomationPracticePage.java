@@ -66,8 +66,14 @@ public class RahulSheetyAutomationPracticePage {
 	@FindBy(xpath="//iframe[@id='courses-iframe']")
 	WebElement iframe1;
 	
-	@FindBy(xpath="//div[@class='nav-outer clearfix']//ul//a[text()='Job Support']")
-	WebElement jobSupportLink;
+//	@FindBy(xpath="//a[text()='Discount Coupons']")
+//	WebElement discount_coupons;
+//	
+//	@FindBy(xpath="//a[text()='Broken Link']")
+//	WebElement Blink;
+	
+	//@FindBy(xpath="//div[@class='nav-outer clearfix']//ul//a[text()='Job Support']")
+	//WebElement jobSupportLink;
 	
 	
 	//actions methods
@@ -207,15 +213,28 @@ public class RahulSheetyAutomationPracticePage {
 		driver.switchTo().frame(iframe1);
 		//jobSupportLink.click();
 	}
-		public void clickOnJobSupport() {
+		//public void clickOnJobSupport() {
 		
-		jobSupportLink.click();
-	}
+		//jobSupportLink.click();
+	//}
 	
 	
 	
-	
-	
+//public void scrollUpToDiscountCouponsLink() {
+//		
+//		JavascriptExecutor js = (JavascriptExecutor) driver;
+//        js.executeScript("arguments[0].scrollIntoView(true);", discount_coupons);
+//		
+//	}
+//
+//public void clickOnBrokenLink() {
+//	
+//	
+//	Blink.click();
+//	
+//	
+//}
+//	
 	
 	
 	

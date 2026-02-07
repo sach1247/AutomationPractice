@@ -59,8 +59,11 @@ public class TC_001_RahulShettyAutomationPracticeTest extends BaseClass {
 		p.iframe();
 		log.info("switched into the frame successfully");
 		
-	    p.clickOnJobSupport();
-	    log.info("clicked on job support link");
+	  //  p.clickOnJobSupport();
+	   // log.info("clicked on job support link");
+		
+//		p.clickOnBrokenLink();
+//		log.info("clicked on broken link");
 	}
 	
 	

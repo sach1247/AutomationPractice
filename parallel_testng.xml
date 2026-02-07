@@ -4,13 +4,13 @@
 <test  name="chromeTest">
 	<parameter name="browser" value="chrome"></parameter>
     <classes>
-         <class name="com.TestAutomationPractice.testCases.TC_001_AutomationExerciseLoginTest"/>
+         <class name="com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1"/>
        </classes>
   </test> <!-- Test -->
   <test  name="edgeTest">
 	<parameter name="browser" value="edge"></parameter>
     <classes>
-      <class name="com.TestAutomationPractice.testCases.TC_001_AutomationExerciseLoginTest"/>
+      <class name="com.TestAutomationPractice.testCases.TC_002_OrangeHrmDashboardTest1"/>
        </classes>
   </test> <!-- Test -->
   </suite> <!-- Suite -->

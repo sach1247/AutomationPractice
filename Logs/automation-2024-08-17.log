@@ -1,0 +1,43 @@
+14:24:00.405 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+14:24:00.501 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+14:24:00.633 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+14:33:09.279 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+14:33:09.549 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+14:33:09.647 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+14:33:09.774 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+14:33:09.896 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+14:33:09.985 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+14:47:03.461 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+14:47:03.829 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+14:47:03.947 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+14:47:04.070 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+14:47:04.203 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+14:47:04.288 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+14:47:04.309 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+14:51:54.263 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+14:51:54.421 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+14:51:54.545 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+14:51:54.682 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+14:51:54.818 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+14:51:55.056 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+14:51:55.085 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+14:51:55.198 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on male radio button
+15:12:17.492 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+15:12:17.704 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+15:12:17.841 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+15:12:18.096 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+15:12:18.208 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+15:12:18.292 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+15:12:18.310 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+15:12:18.416 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on male radio button
+15:12:18.483 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on first and last checkboxes
+15:12:41.020 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
+15:12:41.223 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the first name
+15:12:41.423 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - entered the last name
+15:12:41.551 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - Entered the address
+15:12:41.672 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - email has enter successfully
+15:12:41.765 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - mobile number enter successfully
+15:12:41.787 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - got the size of the radio buttons
+15:12:41.899 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on male radio button
+15:12:41.967 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on first and last checkboxes
+15:13:18.621 [main] INFO  com.TestAutomationPractice.testCases.TC_001_AutomationDemoTest - clicked on register button
